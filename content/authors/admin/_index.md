@@ -20,22 +20,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include deep learning and computer vision
 #
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-#
-#education:
-#  courses:
-#  - course: PhD in Computer Science
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+interests:
+- Deep learning
+- Computer vision
+
+education:
+  courses:
+  - course: PhD in Computer Science
+    institution: Institute of Automation, Chinese Academy of Sciences
+    year: 2015
+  - course: BSc in Information Science
+    institution: Zhejiang University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +40,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:liubingyuan1988@gmail.com".
+  link: "mailto:liubingyuan1988@gmail.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -54,6 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/by-liu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/bingyuan-liu-03bb79107
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-I am a researcher and engineer in Artificial Intelligence with balanced academia and industry experience of about 10 years. Currently, I am a tech leader in computer vision in kujiale.com, which is a unicorn startup company in the field of clould computing, 3D interior design and 3D visulization.
-
+I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experience of about 10 years. Currently, I am a technical leader of computer vision in kujiale.com, which is a unicorn startup company in the field of clould computing, 3D interior design and 3D visulization.
+Besides exploring the edge of artificial intelligence, I also have some interest in social sciences and humanities because of the curiosity of our world. Maybe I will post some of my thoughts in this website. My hobbies are sports and travel.
