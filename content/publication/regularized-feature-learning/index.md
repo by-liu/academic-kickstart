@@ -24,7 +24,7 @@ abstract: "Recently, many deep networks are proposed to learn hierarchical image
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [deep learning, sparse coding, image classification]
+tags: [deep learning, unsupervised learning, image classification]
 categories: []
 featured: false
 
