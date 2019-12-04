@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experience of about 10 years. My background covers the fields of upsupervised learning, image classification, object detection, image retrieval and recommendation. Currently, I am a technical leader of computer vision in kujiale.com, which is a unicorn startup company in the field of clould computing, 3D interior design and visulization.
+I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning and computer vision. Currently, I am a technical leader in kujiale.com, which is a unicorn startup company in the field of clould computing, 3D interior design and visulization.
 Besides exploring the edge of artificial intelligence, I also have some interests in social sciences and humanities because of the curiosity and care of our world. My hobbies are sports and travel.
 If you have any question about me and my work, don't hesitate to make a contact.
