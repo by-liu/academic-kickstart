@@ -3,20 +3,16 @@
 name: Bingyuan Liu
 # title: Nelson Bighetti
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Researcher of Artificial Intelligence
+role: Research Associate
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: kujiale.com
-  url: "https://www.coohom.com/"
+- name: ÉTS Montreal
+  url: https://www.etsmtl.ca/en/home
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include deep learning and computer vision
@@ -25,6 +21,7 @@ interests:
 - Deep learning
 - Computer vision
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
@@ -37,7 +34,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,25 +51,24 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bingyuan-liu-03bb79107
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCVQAv0vXHjlQGABZjhKhrbQ/
+# - icon: youtube
+#   icon_pack: fab
+#   link: https://www.youtube.com/channel/UCVQAv0vXHjlQGABZjhKhrbQ/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 ---
 
-I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning and computer vision. Currently, I am a technical leader in kujiale.com, which is a unicorn startup company in the field of clould computing, 3D interior design and visulization.
-Besides exploring the edge of artificial intelligence, I also have some interests in social sciences and humanities as the curiosity and care of our world. My hobbies are sports and travel.
+I am a researcher and engineer in Artificial Intelligence with mixed academia and industry experiences for about 10 years. My background covers the fields of deep learning and computer vision.
+Currently, I am a Rearch Associate in ÉTS Montreal.
+Besides technical stuff, I have passion in reading, travelling and some social issues.
+Please refer to my non-technical blog, [espmoon](https://espmoon.wordpress.com/), if we also share some of theses interests.
 If you have any question about me and my work, don't hesitate to make a contact.
